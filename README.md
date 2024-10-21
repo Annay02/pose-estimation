@@ -55,12 +55,6 @@ When the web application is running:
 3. Follow the on-screen instructions to complete the test. The results will be displayed in real-time.
 4. After completing the TUG test, all keypoint positions and timestamps for each activity will be saved. You can download the results in CSV format for further analysis.
 
-? ( README index.html
-To test the video tracker:
-1. In VSC install extension "Live Server"
-2. In VSC, navigate to the folder where index.html is located (the local location you chose on your computer for the repot, see the Github guide)
-3. Right-click index.html and select 'Open with Live Server' ) ? 
-
 
 # Graphs 
 Below is information on graph generation: 
