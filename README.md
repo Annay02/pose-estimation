@@ -17,7 +17,7 @@ This project implements real-time pose estimation using TensorFlow and a skeleto
 To run the pose estimation code using TensorFlow.js, follow these steps:
 
 1. Clone the Repository: 
-   First, clone the code from your GitHub repository. Download `"CodeSolution (1).zip"` and open it in Visual Studio Code.
+   First, clone the code from your GitHub repository. Download `"CodeSolution"` and open it in Visual Studio Code.
    ```bash
    git clone https://github.com/Annay02/pose-estimation.git
    ```
